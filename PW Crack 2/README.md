@@ -8,7 +8,7 @@ Download the password checker [here](./level2.py) and you'll need the encrypted 
 1. Does that encoding look familiar?
 1. The `str_xor` function does not need to be reverse engineered for this challenge.
 ## Approach
-When we look at line 18, we see `if( user_pw == chr(0x35) + chr(0x39) + chr(0x30) + chr(0x39) ):` and upon looking at hint 1, we can realize it should be the exact same encoding as the previous question, [Glitch Cat](../Glitch%20Cat/) We can now run
+When we look at [line 18](https://github.com/vivian-dai/PicoMini-2022/blob/main/PW%20Crack%202/level2.py#L18), we see `if( user_pw == chr(0x35) + chr(0x39) + chr(0x30) + chr(0x39) ):` and upon looking at hint 1, we can realize it should be the exact same encoding as the previous question, [Glitch Cat](../Glitch%20Cat/) We can now run
 ```python
 print(chr(0x35) + chr(0x39) + chr(0x30) + chr(0x39))
 ```

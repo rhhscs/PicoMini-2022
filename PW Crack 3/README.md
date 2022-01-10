@@ -10,6 +10,6 @@ There are 7 potential passwords with 1 being correct. You can find these by exam
 1. To exit `bvi` type `:q` and press enter.
 1. The `str_xor` function does not need to be reverse engineered for this challenge.
 ## Approach
-There's not really any way to reverse a hash so our best option is actually to just run the file with each of the passwords on line 44 until we get the flag from one of them.
+There's not really any way to reverse a hash so our best option is actually to just run the file with each of the passwords on [line 44](https://github.com/vivian-dai/PicoMini-2022/blob/main/PW%20Crack%203/level3.py#L44) until we get the flag from one of them.
 ## Flag
 picoCTF{m45h_fl1ng1ng_64840799}

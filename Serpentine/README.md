@@ -10,7 +10,7 @@ Find the flag in the Python script!
 1. To exit `nano`, press Ctrl and x and follow the on-screen prompts.
 1. The `str_xor` function does not need to be reverse engineered for this challenge.
 ## Approach
-If we try running it and printing the flag from there, the program says "Oops! I must have misplaced the print_flag function! Check my source code!". On line 20, we see a function called `print_flag`, line 35 a function called `main` and line 79 and 80, 
+If we try running it and printing the flag from there, the program says "Oops! I must have misplaced the print_flag function! Check my source code!". On [line 20](https://github.com/vivian-dai/PicoMini-2022/blob/main/Serpentine/serpentine.py#L20), we see a function called `print_flag`, [line 35](https://github.com/vivian-dai/PicoMini-2022/blob/main/Serpentine/serpentine.py#L35) a function called `main` and [line 79](https://github.com/vivian-dai/PicoMini-2022/blob/main/Serpentine/serpentine.py#L79) and [80](https://github.com/vivian-dai/PicoMini-2022/blob/main/Serpentine/serpentine.py#L80), 
 ```python
 if __name__ == "__main__":
   main()
