@@ -6,3 +6,4 @@ writeups for the 2022 beginner PicoMini
 |[runme.py](./runme.py/)|5|
 |[ncme](./ncme/)|10|
 |[convertme.py](./convertme.py/)|15|
+|[Codebook](./Codebook/)|20|
