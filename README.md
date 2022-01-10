@@ -1,4 +1,7 @@
 # PicoMini-2022
 writeups for the 2022 beginner PicoMini
 
-[runme.py](./runme.py)
+|Problem|Points|
+|-|-|
+|[runme.py](./runme.py/)|5|
+|[ncme](./ncme/)|10|

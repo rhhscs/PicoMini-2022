@@ -1,5 +1,5 @@
 # runme.py
-Category: General Skills, Python  
+Tags: General Skills, Python  
 Author: Sujeet Kumar
 ## Description
 Run the `runme.py` script to get the flag. Download the script with your browser or with `wget` in the webshell.
