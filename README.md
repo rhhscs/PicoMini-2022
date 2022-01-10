@@ -16,3 +16,4 @@ writeups for the 2022 beginner PicoMini
 |[Serpentine](./Serpentine/)|50|
 |[PW Crack 3](./PW%20Crack%203/)|75|
 |[PW Crack 4](./PW%20Crack%204/)|85|
+|[PW Crack 5](./PW%20Crack%205/)|100|
