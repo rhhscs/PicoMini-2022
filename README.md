@@ -14,3 +14,4 @@ writeups for the 2022 beginner PicoMini
 |[PW Crack 2](./PW%20Crack%202/)|35|
 |[HashingJobApp](./HashingJobApp/)|40|
 |[Serpentine](./Serpentine/)|50|
+|[PW Crack 3](./PW%20Crack%203/)|75|
