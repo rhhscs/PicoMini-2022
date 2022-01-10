@@ -10,3 +10,4 @@ writeups for the 2022 beginner PicoMini
 |[fixme1.py](./fixme1.py/)|25|
 |[fixme2.py](./fixme2.py/)|25|
 |[PW Crack 1](./PW%20Crack%201/)|25|
+|[Glitch Cat](./Glitch%20Cat/)|30|
