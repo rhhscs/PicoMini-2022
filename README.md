@@ -13,3 +13,4 @@ writeups for the 2022 beginner PicoMini
 |[Glitch Cat](./Glitch%20Cat/)|30|
 |[PW Crack 2](./PW%20Crack%202/)|35|
 |[HashingJobApp](./HashingJobApp/)|40|
+|[Serpentine](./Serpentine/)|50|
